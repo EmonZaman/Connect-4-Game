@@ -1,0 +1,40 @@
+.board button{
+
+   width: 100px;
+   height: 100px;
+   background-color: gray;
+   margin: 1px;
+   border: 2px solid black;
+   border-radius: 50%;
+
+
+
+}
+.container{
+text-align: center;
+color: white;
+
+
+
+}
+.board{
+
+  align-items: center;
+   /* background: #ffcc99; */
+  padding-top: 40px;
+
+}
+
+.up{
+
+  background: #002633;
+  margin-bottom: 30px;
+  margin-top: 10px;
+  padding-bottom: 30px;
+  padding-top: 30px
+
+}
+#change{
+    /* color: #32a894; */
+    color: #ff9999;
+}
